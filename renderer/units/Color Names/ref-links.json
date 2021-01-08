@@ -1,0 +1,112 @@
+[
+    [
+        {
+            "name": "<color> - CSS: Cascading Style Sheets | MDN",
+            "href": "https://developer.mozilla.org/en/docs/Web/CSS/color_value"
+        },
+        {
+            "name": "Extended color keywords | CSS Color Module Level 3",
+            "href": "https://www.w3.org/TR/css3-color/#svg-color"
+        },
+        {
+            "name": "Named Colors | CSS Color Module Level 4",
+            "href": "https://www.w3.org/TR/css-color-4/#named-colors"
+        },
+        {
+            "name": "Changes from Colors 3 | CSS Color Module Level 4",
+            "href": "https://www.w3.org/TR/css-color-4/#changes-from-3"
+        },
+        {
+            "name": "“Tomato” versus “#FF6347”—the tragicomic history of CSS color names | Ars Technica",
+            "href": "https://arstechnica.com/information-technology/2015/10/tomato-versus-ff6347-the-tragicomic-history-of-css-color-names/"
+        },
+        {
+            "name": "X11 color names - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/X11_color_names"
+        },
+        {
+            "name": "Colors of /usr/lib/X11/rgb.txt",
+            "href": "http://www.thomas-guettler.de/rgb.txt.html"
+        },
+        {
+            "name": "/usr/lib/X11/rgb.txt",
+            "href": "https://www.astrouw.edu.pl/~jskowron/colors-x11/rgb.html"
+        }
+    ],
+    [
+        {
+            "name": "List of colors by shade - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/List_of_colors_by_shade"
+        },
+        {
+            "name": "Shades of white - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_white"
+        },
+        {
+            "name": "Shades of gray - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_gray"
+        },
+        {
+            "name": "Shades of black - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_black"
+        },
+        {
+            "name": "Shades of magenta - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_magenta"
+        },
+        {
+            "name": "Shades of pink - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_pink"
+        },
+        {
+            "name": "Shades of red - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_red"
+        },
+        {
+            "name": "Shades of brown - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_brown"
+        },
+        {
+            "name": "Shades of orange - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_orange"
+        },
+        {
+            "name": "Shades of yellow - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_yellow"
+        },
+        {
+            "name": "Shades of green - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_green"
+        },
+        {
+            "name": "Shades of cyan - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_cyan"
+        },
+        {
+            "name": "Shades of blue - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_blue"
+        },
+        {
+            "name": "Shades of violet - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_violet"
+        },
+        {
+            "name": "Shades of purple - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Shades_of_purple"
+        }
+    ],
+    [
+        {
+            "name": "Color Survey Results | xkcd",
+            "href": "https://blog.xkcd.com/2010/05/03/color-survey-results/"
+        },
+        {
+            "name": "The 954 most common RGB monitor colors",
+            "href": "https://xkcd.com/color/rgb/"
+        },
+        {
+            "name": "/xkcd.com/color/rgb.txt",
+            "href": "https://xkcd.com/color/rgb.txt"
+        }
+    ]
+]

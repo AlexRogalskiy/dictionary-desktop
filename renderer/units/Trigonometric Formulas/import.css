@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+#trigonometric-formulas-unit .plain-panel
+{
+    padding-bottom: 1.5em;
+}
+
+#trigonometric-formulas-unit .plain-panel .interface
+{
+    text-align: center;
+    margin: 0.5em 0 1.5em 0;
+}
+
+#trigonometric-formulas-unit .plain-panel .sheet
+{
+    /* font-size: 1.1em; */
+    font-size: 15px; 
+    text-align: center;
+    background-color: white;
+    border: 1px solid var(--color-border);
+    border-radius: inherit;
+    margin: 0;
+    padding: 0.25em;
+    overflow-x: auto;
+}
+
+#trigonometric-formulas-unit .plain-panel hr
+{
+    width: 10%;
+}
+
+#trigonometric-formulas-unit summary
+{
+    font-weight: bold;
+    margin: 1.2em 0 1em 0;
+}

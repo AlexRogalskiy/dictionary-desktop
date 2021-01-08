@@ -1,0 +1,82 @@
+[
+    [
+        {
+            "name": "<dl>: The Description List element - HTML | MDN",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl"
+        },
+        {
+            "name": "<dt>: The Description Term element - HTML | MDN",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt"
+        },
+        {
+            "name": "<dd>: The Description Details element - HTML | MDN",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd"
+        }
+    ],
+    [
+        {
+            "name": "Technical definition - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Technical_definition"
+        }
+    ],
+    [
+        {
+            "name": "List of computing and IT abbreviations - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations"
+        },
+        {
+            "name": "List of information technology initialisms - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/List_of_information_technology_initialisms"
+        }
+    ],
+    [
+        {
+            "name": "macOS - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/MacOS"
+        },
+        {
+            "name": "macOS version history - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/MacOS_version_history"
+        }
+    ],
+    [
+        {
+            "name": "Unicode/Versions - Wikibooks, open books for an open world",
+            "href": "https://en.wikibooks.org/wiki/Unicode/Versions"
+        },
+        {
+            "name": "History of Unicode Release and Publication Dates",
+            "href": "https://www.unicode.org/history/publicationdates.html"
+        }
+    ],
+    [
+        {
+            "name": "Emoji Versions, v12.1",
+            "href": "https://unicode.org/emoji/charts/emoji-versions.html"
+        },
+        {
+            "name": "Index of /Public/emoji",
+            "href": "https://unicode.org/Public/emoji/"
+        }
+    ],
+    [
+        {
+            "name": "Unit prefix - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Unit_prefix"
+        },
+        {
+            "name": "Metric prefix - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Metric_prefix"
+        },
+        {
+            "name": "Decimal separator - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Decimal_separator"
+        }
+    ],
+    [
+        {
+            "name": "Degree of a polynomial - Wikipedia",
+            "href": "https://en.wikipedia.org/wiki/Degree_of_a_polynomial"
+        }
+    ]
+]

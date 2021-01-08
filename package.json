@@ -1,0 +1,36 @@
+{
+    "name": "vade-mecum-shelf",
+    "productName": "Vade Mecum Shelf",
+    "version": "2.5.3",
+    "description": "Collection of vade mecum-like utilities.",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "build-darwin": "electron-packager . --asar --out=build --platform=darwin --ignore=/~.* --ignore=^/screenshots --icon=icons/icon.icns --overwrite",
+        "build-linux": "electron-packager . --asar --out=build --platform=linux --ignore=/~.* --ignore=^/screenshots --icon=icons/icon.png --overwrite",
+        "build-mas": "electron-packager . --asar --out=build --platform=mas --ignore=/~.* --ignore=^/screenshots --icon=icons/icon.icns --overwrite",
+        "build-win32": "electron-packager . --asar --out=build --platform=win32 --ignore=/~.* --ignore=^/screenshots --icon=icons/icon.ico --overwrite"
+    },
+    "keywords": [
+        "application",
+        "collection",
+        "desktop",
+        "electron",
+        "modular",
+        "shelf",
+        "utility",
+        "vade mecum"
+    ],
+    "author": {
+        "name": "Michel MARIANI",
+        "url": "https://github.com/tonton-pixel"
+    },
+    "homepage": "https://github.com/tonton-pixel/vade-mecum-shelf",
+    "license": "MIT",
+    "private": false,
+    "dependencies": {},
+    "devDependencies": {
+        "electron": "^8.2.4",
+        "electron-packager": "^14.2.1"
+    }
+}
